@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tarawr
+- 👀 I’m interested in Data Science and Engineering!
+- 🌱 I’m currently learning how to use Python to perform EDA, cleansing and creation of interesting visualizations.
+- 💞️ I’m looking to collaborate on fun problems with a general "good" humanitarian aspect, or just things that are literally for fun like games/media.
+- 📫 vlepeter@gmail.com
